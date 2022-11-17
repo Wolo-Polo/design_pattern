@@ -21,7 +21,7 @@
 - Iterator
 - Mediator
 - Memento
-- Observer
+- [Observer (người quan sát)](src/observer/README.md)
 - State
 - [Strategy (mẫu chiến lược)](src/strategy/README.md)
 - Visitor
