@@ -14,5 +14,12 @@ public class Main {
         milktea = new OptionComponent("Đường đen", 2, milktea);
         System.out.println(milktea.getDescription() + ": " + milktea.getPrice());
 
+        // cái này cũng làm được nè: trà đổ vào sữa :)))
+        ComponentV2 teamilk = new ComponentV2("Trà", 10, null);
+        teamilk = new ComponentV2("Sữa", 10, teamilk);
+        teamilk = new ComponentV2("Đậu đỏ", 5, teamilk);
+        // tèn ten, ta có trà-sữa-đậu đỏ
+        System.out.println(teamilk.getDescription() + ": " + teamilk.getPrice());
+        // giải pháp này thế nào ???
     }
 }
