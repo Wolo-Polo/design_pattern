@@ -21,5 +21,3 @@ Q
 !src/strategy/quack/MuteQuack.java,8\0\8011d61fcecfe9cc2f83b93a97a1ed92c96bdcb5
 M
 src/strategy/quack/Quack.java,4\d\4d1dedd63d7d364f5a8290555494c8de42c9fe85
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

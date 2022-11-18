@@ -9,7 +9,7 @@
 - Adapter
 - Bridge
 - Composite
-- Decorator
+- [Decorator](src/decorator/README.md)
 - Facade
 - Flyweight
 - Proxy
