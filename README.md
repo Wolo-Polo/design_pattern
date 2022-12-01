@@ -17,7 +17,7 @@
 - Interpreter
 - Template method
 - Chain of responsibility
-- Command
+- [Command](src/command/README.md)
 - Iterator
 - Mediator
 - Memento

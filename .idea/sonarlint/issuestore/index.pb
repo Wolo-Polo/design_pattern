@@ -21,3 +21,19 @@ Q
 !src/strategy/quack/MuteQuack.java,8\0\8011d61fcecfe9cc2f83b93a97a1ed92c96bdcb5
 M
 src/strategy/quack/Quack.java,4\d\4d1dedd63d7d364f5a8290555494c8de42c9fe85
+P
+ src/decorator/MainComponent.java,d\9\d92e1c80d92cee5b709e48551ead7ce0ec1cb918
+R
+"src/decorator/OptionComponent.java,6\a\6a4b7d71e10eddbd97acbac5a8f551177a034f6a
+\
+,src/observer/observer/VietnameseDisplay.java,6\5\65029400a3fc224b26ee7190963da3d407c17689
+Y
+)src/observer/observer/EnglishDisplay.java,8\a\8ac6c4faaf8c6dd5138f87718013b5107068c613
+S
+#src/observer/observer/Observer.java,6\0\60a6dd6168293ea2a26a73f93ee29a58a3c05ffe
+F
+src/observer/Main.java,3\f\3f2a2bf9ed68e7790816ba5cf8bf2e93c5cf24b3
+R
+"src/observer/subject/DataPool.java,2\3\2340cf8b1e8ea287a3d58b5f097ff278ca24c4a6
+Q
+!src/observer/subject/Subject.java,c\3\c32a2be715e209e5a0551fb5b479641ce32916e3
